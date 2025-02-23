@@ -3,5 +3,5 @@ public class Main {
         String s = "https://github.com/Gazcoin1/OnlineCinemaTPU";
         System.out.println(s.substring(19).split("/")[0]);
         System.out.println(s.substring(19).split("/")[1]);
-    }
+    }dfghdfghdhfgdfghhdfgdhfghdfg
 }
